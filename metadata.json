@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Drive & Safe Vault",
+  "description": "Personal unlimited cloud storage powered by Telegram with client-side zero-knowledge AES-256 encrypted Safe Vault, media streaming, and folder management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
